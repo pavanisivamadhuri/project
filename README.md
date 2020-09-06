@@ -1,1 +1,1 @@
-# project
+This is the Leaf Disease Classification project which takes the image of any leaf through telegram and predicts whether the leaf has disease or not.This is a machine learning project and uses imageprocessing techniques.
